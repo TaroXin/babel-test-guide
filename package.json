@@ -1,0 +1,15 @@
+{
+  "name": "babel-test-guide",
+  "version": "1.0.0",
+  "description": "An introdution to babel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "bootstrap": "npm install"
+  },
+  "author": "TaroXin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
